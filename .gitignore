@@ -1,0 +1,4 @@
+#node_modules
+FRONT/node_modules/
+#vsCodeの設定ファイル等
+.vscode/

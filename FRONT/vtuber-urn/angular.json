@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "vtuber-urn"
+    }
+  },
+  "defaultProject": "vtuber-urn",
+  "cli": {
+    "analytics": false
+  }
 }

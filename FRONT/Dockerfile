@@ -9,7 +9,7 @@ WORKDIR /vtuber-urn
 COPY ./vtuber-urn/package*.json /vtuber-urn/
 
 RUN npm install
-COPY ./app/ /app/
+COPY ./vtuber-urn/ /vtuber-urn/
 ARG configuration=production
 
 # Angular アプリをビルドする

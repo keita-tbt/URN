@@ -1,3 +1,8 @@
 {
-    "HELLO": "hello {{value}}"
+    "HELLO": "hello {{value}}",
+    "SorryPage_001":{
+        "header":"Sorry we are just constrcting now!!",
+        "body":"Right now, I am creating a frame for the main screen.",
+        "footer":"Wait a little longer"
+    }
 }
